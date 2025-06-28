@@ -12,7 +12,7 @@ I am also passionate about languages! I speak **Portuguese, English, and French 
 
 - 📊 Passionate about **Data Science, Business Analysis, and Digital Strategy**.
 - 🌍 International background: studied in **France (Télécom Paris – Institut Polytechnique de Paris, Paris Dauphine) and Brazil (USP)**.
-- 🗣️ Language enthusiast: **Portuguese (native), English (C1), French (C1), Italian (basic), and Spanish (basic)**.
+- 🗣️ Language enthusiast: **Portuguese (native), English (C1), French (C1)**.
 - 📩 How to reach me: **hannasleonardo@gmail.com**  
 - 💼 LinkedIn: **[linkedin.com/in/leonardohannas/](https://www.linkedin.com/in/leonardohannas/)**  
 - 🖥️ GitHub: **[github.com/leonardohannas](https://github.com/leonardohannas)**  
